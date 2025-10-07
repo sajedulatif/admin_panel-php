@@ -42,8 +42,8 @@
                     </div>
                     <div class="menu">
                         <ul>
-                            <li><a href="index.html"><i class="fas fa-home"></i> Dashboard</a></li>
-                            <li><a href="all-user.html"><i class="fas fa-user-circle"></i> Users</a></li>
+                            <li><a href="index.php"><i class="fas fa-home"></i> Dashboard</a></li>
+                            <li><a href="all-user.php"><i class="fas fa-user-circle"></i> Users</a></li>
                             <li><a href="#"><i class="fas fa-images"></i> Banner</a></li>
                             <li><a href="#"><i class="fas fa-comments"></i> Contact Message</a></li>
                             <li><a href="#"><i class="fas fa-globe"></i> Live Site</a></li>
@@ -71,7 +71,7 @@
                                         <i class="fab fa-gg-circle"></i>View User Information
                                     </div>  
                                     <div class="col-md-4 card_button_part">
-                                        <a href="all-user.html" class="btn btn-sm btn-dark"><i class="fas fa-th"></i>All User</a>
+                                        <a href="all-user.php" class="btn btn-sm btn-dark"><i class="fas fa-th"></i>All User</a>
                                     </div>  
                                 </div>
                               </div>
