@@ -1,6 +1,6 @@
 <!-- Header area Start -->
 <?php
-require 'functions/functions.php';
+require_once 'functions/functions.php';
 get_header();
 get_sidebar();
 ?>
